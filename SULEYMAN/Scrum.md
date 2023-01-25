@@ -33,17 +33,19 @@
 * Used to maintain and improve the product backlog
 * Team, mostly the product owner, reviews the items in the backlog and updates them as necessary to ensure they are well-defined and ready for development
 
-Please keep in mind that these ceremonies are flexible and may be adjusted to suit the needs of the team. But the core concept is that,
-they are a way of ensuring that the team is continuously improving and that the project is progressing smoothly.
-
-It's also important to note that the Scrum framework is not limited to these ceremonies. It also includes roles such as the Product Owner, Scrum Master and Development Team. Each of these roles has specific responsibilities and they all work together to ensure the success of the project.
-
 It's essential to have regular participation of all team members to ensure that ceremonies are held regularly and that all important topics are discussed and addressed. By following the Scrum framework, teams are able to work in an agile, efficient and effective manner, resulting in the successful delivery of projects.
 
 
 ### ![Scrum Practices?](https://github.com/ThrilledBerryTeam/insights/blob/538e431696d5af84550b8d145d4309f8f2ec517c/SULEYMAN/ScrumPractices.PNG)
 
+Please keep in mind that these ceremonies are flexible and may be adjusted to suit the needs of the team. But the core concept is that,
+they are a way of ensuring that the team is continuously improving and that the project is progressing smoothly.
+
+
+
 ### ![Scrum Roles?](https://github.com/ThrilledBerryTeam/insights/blob/538e431696d5af84550b8d145d4309f8f2ec517c/SULEYMAN/ScrumRoles.PNG)
+
+It's also important to note that the Scrum framework is not limited to these ceremonies. It also includes roles such as the Product Owner, Scrum Master and Development Team. Each of these roles has specific responsibilities and they all work together to ensure the success of the project.
 
 
 ### ![What about Team Size?](https://github.com/ThrilledBerryTeam/insights/blob/538e431696d5af84550b8d145d4309f8f2ec517c/SULEYMAN/Size.PNG)
