@@ -50,3 +50,14 @@ It's also important to note that the Scrum framework is not limited to these cer
 
 ### ![What about Team Size?](https://github.com/ThrilledBerryTeam/insights/blob/538e431696d5af84550b8d145d4309f8f2ec517c/SULEYMAN/Size.PNG)
 
+##### ``REFERENCES``
+
+1. The Scrum Guide (https://www.scrumguides.org/docs/scrumguide/v2021/2021-Scrum-Guide-US.pdf) - This guide provides a comprehensive overview of the Scrum framework.
+
+1. Scrum.org (https://www.scrum.org/) - The official website of Scrum.org provides a wealth of resources on Scrum, including articles, videos, and training materials.
+
+1. "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland - This book provides a detailed look at the Scrum framework and its ceremonies.
+
+1. "Scrum Mastery: From Good to Great Servant-Leadership" by Geoff Watts - This book covers the ceremonies in Scrum.
+
+1. Agile Alliance (https://www.agilealliance.org/) - The Agile Alliance is a global nonprofit organization that promotes the principles of Agile software development, including Scrum.
