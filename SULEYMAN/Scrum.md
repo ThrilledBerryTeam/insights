@@ -1,5 +1,7 @@
 ### ![What is Scrum?](https://github.com/ThrilledBerryTeam/insights/blob/5c85cc50fdf649d2d73dfbc88fe8a6ef3a4aa7f3/SULEYMAN/WhatisScrum.PNG)
 
+Scrum is a widely-used agile methodology, particularly in software development and IT projects. One of the key components of Scrum are the ceremonies, which are specific events that are held throughout the project to help the team stay on track and ensure the project is progressing as planned. These ceremonies include the Sprint Planning Meeting, the Daily Scrum, the Sprint Review, and the Sprint Retrospective. In this article, we will delve deeper into these ceremonies, their purpose, and how they can help your team deliver successful projects.
+
 ### ![Scrum Framework](https://github.com/ThrilledBerryTeam/insights/blob/94cfcc958f7e386929ca22cf2f9ad3a8e52d2f77/SULEYMAN/Scrum-Framework.PNG)
 
 ### ``Sprint Planning``
