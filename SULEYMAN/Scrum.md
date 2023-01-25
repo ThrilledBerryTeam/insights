@@ -15,19 +15,19 @@
 * Used to review progress and identify any issues that need to be addressed
 * Development team meets briefly to discuss what they did yesterday, what they plan to do today, and any obstacles that need to be overcome
 
-### Sprint Review
+### ``Sprint Review``
 
 * Held at the end of each sprint
 * Used to review the work that has been completed during the sprint
 * Development team and product owner meet to demonstrate the work that has been completed and gather feedback from stakeholders
 
-### Sprint Retrospective
+### ``Sprint Retrospective``
 
 * Held at the end of each sprint
 * Used to review the process and identify areas for improvement
 * Development team meets to discuss what went well during the sprint, what didn't go well, and what can be done to improve in the future
 
-### Backlog Refinement
+### ``Backlog Refinement``
 
 * An ongoing process
 * Used to maintain and improve the product backlog
