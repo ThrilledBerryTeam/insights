@@ -60,6 +60,6 @@ It's also important to note that the Scrum framework is not limited to these cer
 
 1. "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland - This book provides a detailed look at the Scrum framework and its ceremonies.
 
-1. "Scrum Mastery: From Good to Great Servant-Leadership" by Geoff Watts - This book covers the ceremonies in Scrum.
+1. "Scrum Mastery: From Good to Great Servant-Leadership" by Geoff Watts - This book covers the ceremonies in Scrum
 
 1. Agile Alliance (https://www.agilealliance.org/) - The Agile Alliance is a global nonprofit organization that promotes the principles of Agile software development, including Scrum.
