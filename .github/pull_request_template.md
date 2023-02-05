@@ -1,5 +1,5 @@
 ### Summary 
-_Provide an overview..._
+If applied this PR will 
 
 ### Issue Link
 [INFRA-4](https://thrilledberry.atlassian.net/browse/INFRA-4)
