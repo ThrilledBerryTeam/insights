@@ -11,5 +11,5 @@ _Add more context to describe the changes..._
   
 ---
 ### Checks:
-- [ ] Tested on Sandbox
-- [ ] Meets Acceptance Criteria of the Issue
+- [x] Tested on Sandbox
+- [x] Meets Acceptance Criteria of the Issue
