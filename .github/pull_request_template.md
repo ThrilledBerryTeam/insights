@@ -8,5 +8,5 @@ If applied this PR will
 _Add more context to describe the changes..._
 
 ### Checks
-- [ ] Tested Changes
-- [ ] Stakeholder Approval
+- [ ] Tested on Sandbox
+- [ ] Ready for review
