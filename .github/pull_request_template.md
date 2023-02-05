@@ -1,12 +1,15 @@
-### Summary 
+### Summary: 
 If applied this PR will 
-
-### Issue Link
+  
+---
+### Issue Link:
 [INFRA-4](https://thrilledberry.atlassian.net/browse/INFRA-4)
-
-### Details
+  
+---
+### Details:
 _Add more context to describe the changes..._
-
-### Checks
+  
+---
+### Checks:
 - [ ] Tested on Sandbox
-- [ ] Ready for review
+- [ ] Meets Acceptance Criteria of the Issue
