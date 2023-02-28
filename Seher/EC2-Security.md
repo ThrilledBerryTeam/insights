@@ -1,4 +1,4 @@
-# 5 Things You Can Do to Enhance Your EC2 Instances on AWS with Terraform
+# 5 Things to Enhance Your Server's Security on AWS with Terraform
 
 Security is even more important in the cloud: it’s not just IT provisioning resources, but also developers, plus whoever else has access to launch resources—and nowadays, far more people have access. Also the rate of storing sensitive and confidential data is ever increasing. It’s vital for organizations to take steps to ensure full control of AWS security.
 
